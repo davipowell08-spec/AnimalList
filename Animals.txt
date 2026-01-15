@@ -1,1 +1,7 @@
 Dog
+Beaver
+Turtle
+Rabbit
+Pig
+Parrot
+Snake
